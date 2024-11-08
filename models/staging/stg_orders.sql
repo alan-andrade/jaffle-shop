@@ -14,6 +14,7 @@ renamed as (
         id as order_id,
         store_id as location_id,
         customer as customer_id,
+        customer as alan_customer,
 
         ---------- numerics
         subtotal as subtotal_cents,
